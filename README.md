@@ -1,6 +1,9 @@
 # bootstrap-grid-exercise-2
 
 ## About the exercise
+https://github.com/lasseclaes/bootstrap-grid-exercise-2
+
+Screenshots på https://t.ly/39Glb
 
 
 ### use the documentation
