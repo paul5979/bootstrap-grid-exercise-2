@@ -1,31 +1,41 @@
 /*Style.css - til dine custom styles*/
 
-img{
+/* img{
     width: 100%;
 }
-
-#voresis{
-    text-align: center;
-}
-#voresis .col-xs-12{
-    margin-bottom: 2em;
+#voresis {
+  text-align: center;
 }
 
-#tilbud div{
-        margin-bottom: 2em;
+#voresis .col-xs-12 {
+  margin-bottom: 2em;
 }
+
+#tilbud div {
+  margin-bottom: 2em;
+}
+
 section {
-    padding: 2em 0;
+  padding: 2em 0;
 }
-#hero{
-    background-color: azure;
+*/
+
+/*#hero {
+  background-color: red;
+}*/
+
+#voresis {
+  background-color: lightyellow;
 }
-#voresis{
-    background-color: lightyellow;
+
+#tilbud {
+  background-color: burlywood;
 }
-#tilbud{
-    background-color: burlywood;
+
+#omos {
+  background-color: lavender;
 }
-#omos{
-    background-color: lavender;
+
+.card {
+  background-color: transparent;
 }

@@ -10,6 +10,7 @@
 
   <link rel="stylesheet" href="bs/css/bootstrap.min.css">
   <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/rwd.css">
 </head>
 
 <body>
@@ -17,91 +18,92 @@
   <!-- Tilføj dit indhold under denne linie -->
 
   <main class="container">
-
-    <section id="hero" class="row">
-      <div class="col-klasser-her"><img src="imgs/storis.jpg"></div>
-      <div class="col-klasser-her text-center">
-        <h5>Ispusheren - Amager isbutik</h5>
-      </div>
+    <section id="hero" class="row mb-5">
+      <div class="col-12 text-center card">
+        <img class="img-fluid card-img-top" src="imgs/storis.jpg">
+        <div class="card-img-overlay">
+          <h1 class="card-title align-middle">Ispusheren <span class="d-block">- Amager isbutik</span></h1>
+        </div>
+      </div><!-- END .card .row -->
     </section>
 
-    <section id="voresis" class="row">
-      <div class="col-klasser-her">
-        <h2>Vores is - sortimentet</h2>
-      </div>
-      <div class="col-klasser-her">
-        <img src="imgs/astronaut.jpg">
+    <section id="voresis" class="row text-center mb-5">
+      <!-- <div class="col-12 col-md-12"> -->
+      <h2 class="col-12">Vores is - sortimentet</h2>
+      <!-- </div> -->
+      <div class="col-12 col-md-6 col-lg-4 mb-5">
+        <img class="img-fluid" src="imgs/astronaut.jpg">
         <h4>Astronaut</h4>
         <p>14 DKK</p>
         <button type="button" class="btn btn-success btn-lg">Køb</button>
       </div>
-      <div class="col-klasser-her">
-        <img src="imgs/chokois.jpg">
+      <div class="col-12 col-md-6 col-lg-4 mb-5">
+        <img class="img-fluid" src="imgs/chokois.jpg">
         <h4>Chokoladeis</h4>
         <p>32 DKK</p>
         <button type="button" class="btn btn-success btn-lg">Køb</button>
       </div>
-      <div class="col-klasser-her">
-        <img src="imgs/flotis.jpg">
+      <div class="col-12 col-md-6 col-lg-4 mb-5">
+        <img class="img-fluid" src="imgs/flotis.jpg">
         <h4>Flot, dyr is</h4>
         <p>82 DKK</p>
         <button type="button" class="btn btn-success btn-lg">Køb</button>
       </div>
-      <div class="col-klasser-her">
-        <img src="imgs/grimis.jpg">
+      <div class="col-12 col-md-6 col-lg-4 mb-5">
+        <img class="img-fluid" src="imgs/grimis.jpg">
         <h4>Billig grim is</h4>
         <p>6 DKK</p>
         <button type="button" class="btn btn-success btn-lg">Køb</button>
       </div>
-      <div class="col-klasser-her">
-        <img src="imgs/isned.jpg">
+      <div class="col-12 col-md-6 col-lg-4 mb-5">
+        <img class="img-fluid" src="imgs/isned.jpg">
         <h4>Sammenstyrtet is</h4>
         <p>12 DKK</p>
         <button type="button" class="btn btn-success btn-lg">Køb</button>
       </div>
-      <div class="col-klasser-her">
-        <img src="imgs/iskaffe.jpg">
+      <div class="col-12 col-md-6 col-lg-4">
+        <img class="img-fluid" src="imgs/iskaffe.jpg">
         <h4>Min yndling!</h4>
         <p>24 DKK</p>
         <button type="button" class="btn btn-success btn-lg">Køb</button>
       </div>
     </section>
 
-    <section id="tilbud" class="row">
-      <div class="col-klasser-her">
-        <h2>Aktuelle tilbud</h2>
-      </div>
-      <div class="col-klasser-her">
+    <section id="tilbud" class="row mb-5">
+      <!-- <div class="col-12"> -->
+      <h2 class="col-12">Aktuelle tilbud</h2>
+      <!-- </div> -->
+      <div class="col-12 col-md-6 col-lg-3 mb-4 d-md-flex flex-md-column">
         <h5>Dagens tilbud</h5>
         <p>Du kan få en portion flødeskum med ved køb af en kæmpe is.</p>
-        <button type="button" class="btn btn-warning btn-sm">Køb nu</button>
+        <button type="button" class="btn btn-warning btn-sm mt-md-auto">Køb nu</button>
       </div>
-      <div class="col-klasser-her">
+      <div class="col-12 col-md-6 col-lg-3 mb-4 d-md-flex flex-md-column">
         <h5>Ugens tilbud</h5>
         <p>Denne uge kan du få en øl-is.</p>
-        <button type="button" class="btn btn-warning btn-sm">Køb nu</button>
+        <button type="button" class="btn btn-warning btn-sm mt-md-auto">Køb nu</button>
       </div>
-      <div class="col-klasser-her">
+      <div class="col-12 col-md-6 col-lg-3 mb-4 d-md-flex flex-md-column">
         <h5>Månedens tilbud</h5>
         <p>Vinteris - meget varm. Smager lidt af mormor-cacao.</p>
-        <button type="button" class="btn btn-warning btn-sm">Køb nu</button>
+        <button type="button" class="btn btn-warning btn-sm mt-md-auto">Køb nu</button>
       </div>
-      <div class="col-klasser-her">
+      <div class="col-12 col-md-6 col-lg-3 mb-4 d-md-flex flex-md-column">
         <h5>Medlemstilbud</h5>
         <p>Købe en is - og få en gratis</p>
-        <button type="button" class="btn btn-warning btn-sm">Køb nu</button>
+        <button type="button" class="btn btn-warning btn-sm mt-md-auto">Køb nu</button>
       </div>
     </section>
 
-    <section id="omos" class="row">
-      <div class="col-klasser-her">
+    <section id="omos" class="row mb-5">
+      <div class="col-12">
         <h2>Vi holder til på Amager</h2>
       </div>
-      <div class="col-klasser-her">
+      <div class="col-12">
         <p>Og vores is kan købes gennem Kalles kaffe. Check vores lokaler:</p>
       </div>
-      <div class="col-klasser-her">
-        <h2><img src="imgs/iskiosk.jpg"></h2>
+      <div class="col-12">
+        <h2><img class="img-fluid" src="imgs/iskiosk.jpg"></h2>
       </div>
     </section>
 
