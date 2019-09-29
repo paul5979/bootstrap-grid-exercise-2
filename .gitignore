@@ -1,2 +1,14 @@
 .sass-cache/
 *.css.map
+/bs/css/bootstrap.min.css
+
+# OS generated files #
+######################
+*.DS_Store
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
