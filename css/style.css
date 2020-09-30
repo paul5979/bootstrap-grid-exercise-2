@@ -51,3 +51,11 @@
 
   /* END "xl-" 1200px and up */
 }
+
+/**************************************************/
+/* // Extra Extra large (XXL) devices (XXL screens, 1400px and up) */
+/**************************************************/
+@media (min-width: 1400px) {
+
+  /* END "xxl-" 1400px and up */
+}
