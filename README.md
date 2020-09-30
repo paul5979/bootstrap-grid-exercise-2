@@ -1,5 +1,7 @@
 # bootstrap-grid-exercise-2
 
+Solution 20E/20A - "old school" syntax
+
 ## About the exercise
 https://github.com/lasseclaes/bootstrap-grid-exercise-2/
 
