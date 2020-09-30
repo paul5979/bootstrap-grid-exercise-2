@@ -1,18 +1,11 @@
 # bootstrap-grid-exercise-2
 
 ## About the exercise
-https://github.com/lasseclaes/bootstrap-grid-exercise-2
+https://github.com/lasseclaes/bootstrap-grid-exercise-2/
 
-Screenshots på https://t.ly/39Glb
-
+Screenshots på https://t.ly/Firu/
 
 ### use the documentation
-Documentation: https://getbootstrap.com/docs/4.3/getting-started/introduction/ - please use it
+Documentation: https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/ - please use it
 
-e.g. https://getbootstrap.com/docs/4.3/layout/grid/ is important for this exercise.
-
-#### thanks
-
-Thanks to Stefan Grage for sharing slides and exercise content. 
-
-https://github.com/stefangrage
+e.g. https://v5.getbootstrap.com/docs/5.0/layout/grid/ is important for this exercise.

@@ -87,3 +87,19 @@
 
    /* END "xl-" 1200px and up */
  }
+
+ /**************************************************/
+ /* // Extra Extra large (XXL) devices (XXL screens, 1400px and up) */
+ /**************************************************/
+ @media (min-width: 1400px) {
+
+   body {
+     background-color: yellowgreen;
+   }
+
+   body::before {
+     content: "'xxl': lig el. over 1400px.";
+   }
+
+   /* END "xl-" 1400px and up */
+ }
