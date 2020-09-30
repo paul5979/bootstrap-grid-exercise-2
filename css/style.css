@@ -1,5 +1,20 @@
 /*Style.css - til dine custom styles*/
 
+#hero {
+  background-color: azure;
+  background: url(../imgs/storis.jpg);
+  min-height: 50vh;
+  background-size: cover;
+  background-position: center center;
+}
+
+.hero-text {
+  color: white;
+  background-color: hotpink;
+  opacity: 0.8;
+  width: 80%;
+}
+
 /*
 #voresis {
   text-align: center;
