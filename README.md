@@ -1,9 +1,11 @@
 # bootstrap-grid-exercise-2
 
-Documentation: https://getbootstrap.com/docs/4.3/getting-started/introduction/ - please use it
+## About the exercise
+https://github.com/lasseclaes/bootstrap-grid-exercise-2/
 
-e.g. https://getbootstrap.com/docs/4.3/layout/grid/ is important for this exercise.
+Screenshots på https://t.ly/Firu/
 
-Thanks to Stefan Grage for sharing slides and exercise content. 
+### use the documentation
+Documentation: https://v5.getbootstrap.com/docs/5.0/getting-started/introduction/ - please use it
 
-https://github.com/stefangrage
+e.g. https://v5.getbootstrap.com/docs/5.0/layout/grid/ is important for this exercise.
